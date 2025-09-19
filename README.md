@@ -3,6 +3,14 @@
 A simple and interactive **To-Do List application** to manage daily tasks efficiently.  
 This project demonstrates DOM manipulation, event handling, and clean UI design using **HTML, CSS, and JavaScript**.
 
+**Key Concepts Implemented:**
+- **DOM Manipulation:** Dynamically create, update, and remove task elements.  
+- **Event Handling:** Use of click, keypress, and change events to interact with the user.  
+- **Data Management:** Tasks can be marked as complete or deleted.  
+- **Responsive Design:** The app works well on mobile, tablet, and desktop screens.  
+
+---
+
 ---
 
 ## 📌 Features
@@ -24,5 +32,6 @@ todo-list/
 │── script.js         # JavaScript logic for adding/removing tasks
 │── Images/           # Images, icons, or fonts
 │── README.md         # Project documentation
+
 
 
