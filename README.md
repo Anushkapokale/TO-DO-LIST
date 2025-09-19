@@ -5,6 +5,11 @@ This project demonstrates practical **DOM manipulation**, **event handling**, an
 
 ---
 
+## 🔗 Live Demo
+[View Live Demo]()
+
+---
+
 ## 📌 About the Project
 The To-Do List app is designed to improve productivity by allowing users to **add, complete, and delete tasks** easily.  
 It helps in organizing daily activities and visually tracking completed and pending tasks.
@@ -41,6 +46,7 @@ todo-list/
 │── script.js         # JavaScript logic for adding/removing tasks
 │── Images/           # Images, icons, or fonts
 │── README.md         # Project documentation
+
 
 
 
