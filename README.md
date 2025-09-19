@@ -1,7 +1,13 @@
 # 📝 To-Do List App
 
-A simple and interactive **To-Do List application** to manage daily tasks efficiently.  
-This project demonstrates DOM manipulation, event handling, and clean UI design using **HTML, CSS, and JavaScript**.
+A simple, interactive **To-Do List application** to help users manage their daily tasks efficiently.  
+This project demonstrates practical **DOM manipulation**, **event handling**, and **dynamic UI updates** using **HTML, CSS, and JavaScript**.
+
+---
+
+## 📌 About the Project
+The To-Do List app is designed to improve productivity by allowing users to **add, complete, and delete tasks** easily.  
+It helps in organizing daily activities and visually tracking completed and pending tasks.
 
 **Key Concepts Implemented:**
 - **DOM Manipulation:** Dynamically create, update, and remove task elements.  
@@ -11,18 +17,21 @@ This project demonstrates DOM manipulation, event handling, and clean UI design 
 
 ---
 
----
-
 ## 📌 Features
 - ✅ Add new tasks dynamically  
-- ✅ Mark tasks as completed  
+- ✅ Mark tasks as completed (toggle complete state)  
 - ✅ Delete tasks individually  
-- ✅ Responsive design for desktop and mobile  
-- ✅ Easy-to-use and minimal interface  
-
-
+- ✅ Responsive and clean UI for all devices  
+- ✅ Simple and intuitive interface  
 
 ---
+
+## 💡 How It Works
+1. The user enters a task in the input field and clicks **Add** or presses **Enter**.  
+2. The JavaScript code creates a new list item dynamically in the **task list**.  
+3. Each task has **complete** and **delete** buttons for easy management.  
+4. Completed tasks are visually distinguished using **CSS styling** (like strikethrough).  
+5. Tasks can be removed individually by clicking the **delete icon**. 
 
 ## 📂 Project Structure
 ```bash
@@ -32,6 +41,7 @@ todo-list/
 │── script.js         # JavaScript logic for adding/removing tasks
 │── Images/           # Images, icons, or fonts
 │── README.md         # Project documentation
+
 
 
 
