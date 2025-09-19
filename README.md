@@ -6,7 +6,7 @@ This project demonstrates practical **DOM manipulation**, **event handling**, an
 ---
 
 ## 🔗 Live Demo
-[View Live Demo]()
+[View Live Demo](https://github.com/Anushkapokale/TO-DO-LIST.git)
 
 ---
 
@@ -46,6 +46,7 @@ todo-list/
 │── script.js         # JavaScript logic for adding/removing tasks
 │── Images/           # Images, icons, or fonts
 │── README.md         # Project documentation
+
 
 
 
